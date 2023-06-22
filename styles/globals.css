@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.empty-line {
+    margin-bottom: 1em; /* 调整间距大小 */
+}
